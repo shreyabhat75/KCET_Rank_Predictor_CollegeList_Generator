@@ -2,3 +2,6 @@ streamlit
 numpy
 scikit-learn
 pandas
+re
+request
+flask
