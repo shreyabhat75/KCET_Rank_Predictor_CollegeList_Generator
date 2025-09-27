@@ -3,3 +3,6 @@ numpy
 scikit-learn
 pandas
 openpyxl
+flask
+re
+requests
