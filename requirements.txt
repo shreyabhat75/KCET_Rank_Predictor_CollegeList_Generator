@@ -1,8 +1,5 @@
 streamlit
 numpy
-scikit-learn
 pandas
+scikit-learn
 openpyxl
-flask
-re
-requests
